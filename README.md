@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caytomahamed&theme=radical)
+
+| Programming | Styling | others|
+| --------------- | --------------- | --------------- |
+| [![Tux, the Linux mascot](https://bit.ly/35WIAAm)](https://reactjs.org/)  | [![Tux, the Linux mascot](https://bit.ly/3NYEkl8)](https://www.w3schools.com/css/) | [![Tux, the Linux mascot](https://bit.ly/3KvOFCP)](https://sass-lang.com/) |
+|[![Tux, the Linux mascot](https://bit.ly/37zccV5)](https://redux.js.org/)  | [![Tux, the Linux mascot](https://bit.ly/37CEGxb)](https://getbootstrap.com/)  | [![Tux, the Linux mascot](https://bit.ly/3JlEejW)](https://www.remotion.dev/)  |
+| [![Tux, the Linux mascot](https://bit.ly/3O05Vm4)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [![Tux, the Linux mascot](https://bit.ly/3KuaBhO)](https://mui.com/)  | [![Tux, the Linux mascot](https://bit.ly/3urpyvy)](https://icomoon.io/) 
