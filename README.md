@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caytomahamed&theme=radical)
 
-|  |  | |
+| Programming | Styling | others|
 | --------------- | --------------- | --------------- |
 | [![Tux, the Linux mascot](https://bit.ly/35WIAAm)](https://reactjs.org/)  | [![Tux, the Linux mascot](https://bit.ly/3NYEkl8)](https://www.w3schools.com/css/) | [![Tux, the Linux mascot](https://bit.ly/3KvOFCP)](https://sass-lang.com/) |
 |[![Tux, the Linux mascot](https://bit.ly/37zccV5)](https://redux.js.org/)  | [![Tux, the Linux mascot](https://bit.ly/37CEGxb)](https://getbootstrap.com/)  | [![Tux, the Linux mascot](https://bit.ly/3JlEejW)](https://www.remotion.dev/)  |
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!-- [![Tux, the Linux mascot](https://bit.ly/375IUgE)](https://nodejs.org/en/)  | [![Tux, the Linux mascot](https://bit.ly/3v6SJ6f)](https://expressjs.com/)
 | [![Tux, the Linux mascot](https://bit.ly/35WIAAm)](https://reactnative.dev/)  -->
 
-| Programming | Styling | others|
+|  |  | |
 | --------------- | --------------- | --------------- |
 | [![Tux, the Linux mascot](https://bit.ly/375IUgE)](https://nodejs.org/en/)  |  [![Tux, the Linux mascot](https://bit.ly/3v6SJ6f)](https://expressjs.com/) |  [![Tux, the Linux mascot](https://bit.ly/35WIAAm)](https://reactnative.dev/)
 
