@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 | [![Tux, the Linux mascot](https://bit.ly/3O05Vm4)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [![Tux, the Linux mascot](https://bit.ly/3KuaBhO)](https://mui.com/)  | [![Tux, the Linux mascot](https://bit.ly/3urpyvy)](https://icomoon.io/) 
 
 # Now 
+
 > now l am learning in backend Node && Express to become full stack web dev 
 > an also Moble app dev in React Native 
 
-| [![Tux, the Linux mascot](https://bit.ly/375IUgE)](https://nodejs.org/en/)  | [![Tux, the Linux mascot](https://bit.ly/3v6SJ6f)](https://expressjs.com/)
+[![Tux, the Linux mascot](https://bit.ly/375IUgE)](https://nodejs.org/en/)  | [![Tux, the Linux mascot](https://bit.ly/3v6SJ6f)](https://expressjs.com/)
 | [![Tux, the Linux mascot](https://bit.ly/35WIAAm)](https://reactnative.dev/) 
