@@ -1,4 +1,7 @@
-### Hi there 👋
+![Tux, the Linux mascot](https://ca.slack-edge.com/T01EGNU0K5Y-U01TVFBMWCQ-53703b330b3c-512) 
+# Caydaruus Mahamed
+
+I'm Aidarous from Somalia, and I do content on Development(FrontEnd). I really enjoy learning languages and frameworks like React and redux , as well as work in javascript. I also enjoy wireframing, ui, ux, and design in general.
 
 <!--
 **Caytomahamed/Caytomahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
